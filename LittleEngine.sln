@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LittleEngine", "LittleEngine\LittleEngine.csproj", "{B0C61D2A-11B5-4022-9ACB-E8B55E394620}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LittleEngine", "LittleEngine\LittleEngine.csproj", "{A44115FC-625B-4244-B1CD-409DB5930C3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowTesting", "WindowTesting\WindowTesting.csproj", "{2BDE9C5D-058A-4778-8360-718CD94FBADC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +11,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B0C61D2A-11B5-4022-9ACB-E8B55E394620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B0C61D2A-11B5-4022-9ACB-E8B55E394620}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B0C61D2A-11B5-4022-9ACB-E8B55E394620}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B0C61D2A-11B5-4022-9ACB-E8B55E394620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A44115FC-625B-4244-B1CD-409DB5930C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44115FC-625B-4244-B1CD-409DB5930C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44115FC-625B-4244-B1CD-409DB5930C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44115FC-625B-4244-B1CD-409DB5930C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BDE9C5D-058A-4778-8360-718CD94FBADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDE9C5D-058A-4778-8360-718CD94FBADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDE9C5D-058A-4778-8360-718CD94FBADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDE9C5D-058A-4778-8360-718CD94FBADC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
